@@ -1,1 +1,10 @@
-# Datacamp_Certifications
+![DC1](https://github.com/RakeshsarmaKarra/Datacamp_Certifications/blob/main/DC1.jpg)
+![DC1](https://github.com/RakeshsarmaKarra/Datacamp_Certifications/blob/main/DC2.jpg)
+![DC1](https://github.com/RakeshsarmaKarra/Datacamp_Certifications/blob/main/DC3.jpg)
+
+Introduction to R: [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/534a2e2dd88860ff5a727db9eab085732e1733b5)                                                                                                                                                 
+Introduction to Regression in R: [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/7b352b3b01f82532f7b5191f176e66a4fef432e1)                                                                                                                                                
+Exploratory Data Analysis in R: [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/a1a7c1b8cc8dcf22a04d0c3bf894955395c14375)                                                                                                                                                
+Intermediate Regression in R: [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/02f8f4acd8dd7d5ded49cc4a9b0affe228ff4609)                                                                                                                                                
+Machine Learning with caret in R: [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/ae2c37415156e1d5c2efb08df96784193c4566f8)                                                                                                                                                
+Building Web Applications with Shiny in R: [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/d9e5c301f67799e6eaadd69109d53c3aaace79d8)                                                                                                                                                
